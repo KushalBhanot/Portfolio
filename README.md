@@ -1,4 +1,6 @@
 # Portfolio
 This is an ongoing project.
 
-![Me](https://github.com/KushalBhanot/Portfolio/blob/master/circle-cropped.png)
+##### Made with ❤ by <a href="https://github.com/KushalBhanot">Kushal Bhanot</a>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/KushalBhanot)
